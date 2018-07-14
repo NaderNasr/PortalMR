@@ -4,11 +4,11 @@
 
 ## Team
 
-  - __Product Owner__ & __Back-End__: Salsabeel
-  - __Scrum Master__ & __Front-End Developer__: Nader_Nasr
+  - __Product Owner__ & __Back-End Developer____: Salsabeel
+  - __Scrum Master__ & __Front & Back-End Developer__: Nader_Nasr
   - __Development Team Members__>
-  - __Front & Back-end__: Nooreddein_Yousef
-  - __Front-end & Testing__: Mohammad_Al_Rifai
+  - __Front & Back-end Developer____: Nooreddein_Yousef
+  - __Front-end & Testing Developer____: Mohammad_Al_Rifai
 
 ## Table of Contents
 
