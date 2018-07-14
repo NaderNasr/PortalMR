@@ -8,7 +8,7 @@
   - __Scrum Master__ & __Front-End Developer__: Nader_Nasr
   - __Development Team Members__>
     __Front & Back-end__: Nooreddein_Yousef
-    __Testing__: Mohammad_Al_Rifai
+    __Front-end & Testing__: Mohammad_Al_Rifai
 
 ## Table of Contents
 
